@@ -5,7 +5,11 @@ This repository contains my Python learning practice, projects, and problem-solv
 Topics I am Learning
 
 Python Basics
+
 Variables and Data Types
+
 Loops and Conditions
+
 Functions
+
 Object-Oriented Programming
